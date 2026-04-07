@@ -61,7 +61,7 @@ python scraper.py
 
 
 
-(attach screenshot of your Excel here)
+
 
 
 
